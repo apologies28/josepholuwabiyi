@@ -13,5 +13,42 @@ This repository reflects skills, share projects and track my progress in Data An
 ## Projects
 
 - Python
-  - [Demographic Data Analyzer]
-  - [Mean, Variance, Standard Deviation Calculator]
+  - ['Demographic Data Analyser'](https://github.com/apologies28/Projects/blob/main/demographic_data_analyzer.py)
+  - ['Mean, Variance, Standard Deviation Calculator']
+ 
+### Demographic Data Analyser
+**Code:** ['Data Analyser'](https://github.com/apologies28/Projects/blob/main/demographic_data_analyzer.py)
+
+**Description:** This project focused on analysing demographic data using Pandas. A dataset of demographic data is given that was extracted from the 1994 Census database.
+
+**Goal:** To use Pandas to answer the following questions: 
+
+  - How many people of each race are represented in this dataset?
+  - What is the average age of men?
+  - What is the percentage of people who have a Bachelor's degree?
+  - What percentage of people with advanced education (Bachelors, Masters, or Doctorate) make more than 50K?
+  - What percentage of people without advanced education make more than 50K?
+  - What is the minimum number of hours a person works per week?
+  - What percentage of the people who work the minimum number of hours per week have a salary of more than 50K?
+  - What country has the highest percentage of people that earn >50K and what is that percentage?
+  - Identify the most popular occupation for those who earn >50K in India.
+
+**Technology:** Python, Pandas, Numpy,
+
+**Results:** 
+
+ - **Number of each race:**
+    - **White:** 27,816  
+    - **Black:** 3,124  
+    - **Asian-Pac-Islander:** 1,039  
+    - **Amer-Indian-Eskimo:** 311  
+    - **Other:** 271  
+  - **Average age of men:** 39.4  
+  - **Percentage with Bachelor's degrees:** 16.4%  
+  - **Percentage with higher education that earn >50K:** 46.5%  
+  - **Percentage without higher education that earn >50K:** 17.4%  
+  - **Minimum work time:** 1 hour/week  
+  - **Percentage of rich among those who work the fewest hours:** 10.0%  
+  - **Country with the highest percentage of rich people:** Iran (41.9%)  
+  - **Most popular occupation for those earning >50K in India:** Prof-specialty 
+
