@@ -14,12 +14,12 @@ This repository reflects skills, share projects and track my progress in Data An
 
 - Python
   - [Demographic Data Analyser](https://github.com/apologies28/josepholuwabiyi/edit/main/README.md#demographic-data-analyser)
-  - ['Mean, Variance, Standard Deviation Calculator'](https://github.com/apologies28/josepholuwabiyi/edit/main/README.md#mean-variance-standard-deviation-calculator)
+  - ['Mean, Variance, Standard Deviation Calculator'](https://github.com/apologies28/josepholuwabiyi?tab=readme-ov-file#mean-variance-standard-deviation-calculator)
  
 ### Demographic Data Analyser
 **Code:** ['Data Analyser'](https://github.com/apologies28/Projects/blob/main/demographic_data_analyzer.py)
 
-**Description:** This project focused on analysing demographic data using Pandas. A dataset of demographic data is given that was extracted from the 1994 Census database.
+**Description:** This project focused on analysing demographic data using Pandas. A [dataset](https://github.com/apologies28/Projects/blob/main/adult.data.csv) of demographic data is given that was extracted from the 1994 Census database.
 
 **Goal:** To use Pandas to answer the following questions: 
 
@@ -53,7 +53,7 @@ This repository reflects skills, share projects and track my progress in Data An
   - **Most popular occupation for those earning >50K in India:** Prof-specialty
 
 ### Mean-Variance-Standard Deviation Calculator
-**Code:** ['Calculator'](https://github.com/apologies28/Projects/blob/main/demographic_data_analyzer.py)
+**Code:** ['Calculator'](https://github.com/apologies28/Projects/blob/main/mean_var_std.py)
 
 **Description:** This task focused on creating a function that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix along both axes and for the flattened matrix.
 
