@@ -13,7 +13,7 @@ This repository reflects skills, share projects and track my progress in Data An
 ## Projects
 
 - Python
-  - [Demographic Data Analyser](https://github.com/apologies28/josepholuwabiyi/edit/main/README.md#demographic-data-analyser)
+  - [Demographic Data Analyser](https://github.com/apologies28/josepholuwabiyi?tab=readme-ov-file#demographic-data-analyser)
   - ['Mean, Variance, Standard Deviation Calculator'](https://github.com/apologies28/josepholuwabiyi?tab=readme-ov-file#mean-variance-standard-deviation-calculator)
  
 ### Demographic Data Analyser
