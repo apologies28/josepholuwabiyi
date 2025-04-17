@@ -14,7 +14,10 @@ This repository reflects skills, share projects and track my progress in Data An
 
 - Python
   - [Demographic Data Analyser](https://github.com/apologies28/josepholuwabiyi?tab=readme-ov-file#demographic-data-analyser)
-  - ['Mean, Variance, Standard Deviation Calculator'](https://github.com/apologies28/josepholuwabiyi?tab=readme-ov-file#mean-variance-standard-deviation-calculator)
+  - [Mean, Variance, Standard Deviation Calculator](https://github.com/apologies28/josepholuwabiyi?tab=readme-ov-file#mean-variance-standard-deviation-calculator)
+
+- QGIS
+  - Crime Rates in London / Road Transport Noise in Sheffield. ['Report'](https://github.com/apologies28/Projects/blob/main/Crime%20Rates_Road%20Transport%20Noise.pdf)
  
 ### Demographic Data Analyser
 **Code:** ['Data Analyser'](https://github.com/apologies28/Projects/blob/main/demographic_data_analyzer.py)
